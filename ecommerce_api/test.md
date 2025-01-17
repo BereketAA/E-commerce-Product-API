@@ -22,8 +22,6 @@ url: http://127.0.0.1:8000/api/categories/
   "name": "Electronics"
 }
 
-
-
 3 List Products
 
 url: http://127.0.0.1:8000/api/products/
